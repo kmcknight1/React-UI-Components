@@ -1,0 +1,21 @@
+button {
+    display: inline-block;
+    border-radius: 0%;
+    flex: 1;
+    height: 100%;
+    font-size: 1.7rem;
+    outline: none;
+    font-weight: bold;
+}
+
+.red-button {
+    background-color: maroon;
+    color: white;
+    font-size: 2rem;
+}
+
+.action {
+    flex: 3.5;
+    font-weight: normal;
+    letter-spacing: 0.1rem;
+}
